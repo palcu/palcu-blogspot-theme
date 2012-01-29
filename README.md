@@ -6,7 +6,7 @@ Don't ask why I chose Blogger in the first place. Original theme was configured 
 ## Some tricks used for customizing
 * added Open Graph tags
 * using `<b:if cond='data:blog.url == 'some_url'></b:if>` for description and keyword tags for every post
-* added Facebook comments _(facebook initialiazation script is loaded only for post pages, for a more slim homepage)_
+* added Facebook comments _[facebook initialiazation script is loaded only for post pages, for a more slim homepage]_
 * custom quotes in the footer _[TODO: move them in an external script]_
 
 ## Plugins
@@ -15,3 +15,5 @@ Don't ask why I chose Blogger in the first place. Original theme was configured 
 * Github badge
 * Facebook recommendations box
 
+## License
+I guess you can use this template for your own blogspot blog. I haven't found any licensing terms for the template designer generated templates.
